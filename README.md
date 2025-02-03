@@ -11,7 +11,6 @@ A step-by-step guide to using **Steghide**, a steganography tool for embedding a
 - [Usage Guide](#usage-guide)
   - [Windows](#windows)
   - [Linux](#linux)
-  - [MacOS](#macos)
 - [Embedding Data](#embedding-data)
 - [Extracting Data](#extracting-data)
 - [Credits](#credits)
@@ -31,13 +30,6 @@ Download it from the releases tag.
 ### Linux
 1. Download the **Linux binary** from the official website.
 2. Extract the files to your desired location.
-3. Open **Terminal**.
-4. Navigate to the Steghide directory.
-5. Run `steghide` commands as needed.
-
-### MacOS
-1. Download the **MacOS binary** from the official website.
-2. Extract the files.
 3. Open **Terminal**.
 4. Navigate to the Steghide directory.
 5. Run `steghide` commands as needed.
