@@ -19,7 +19,7 @@ A step-by-step guide to using **Steghide**, a steganography tool for embedding a
 ## Get Steghide
 Download Steghide from the official site: [Steghide Download](https://steghide.sourceforge.net/download.php)
 **OR**
-Download it from this repository
+Download it from the releases tag.
 
 ## Usage Guide
 ### Windows
