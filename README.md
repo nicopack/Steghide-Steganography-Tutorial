@@ -18,17 +18,17 @@ A step-by-step guide to using **Steghide**, a steganography tool for embedding a
 ## Get Steghide
 Download Steghide from the official site: [Steghide Download](https://steghide.sourceforge.net/download.php)
 **OR**
-Download it from the releases tag.
+Download it from the releases tag for windows or linux. You can also get the source code on the site.
 
 ## Usage Guide
 ### Windows
-1. Download the **Windows binary** from the official website.
+1. Download the **Windows binary** from the official website or releases tag.
 2. Extract the contents.
 3. Navigate to the extracted folder in **Command Prompt**.
 4. Run `steghide` commands as needed.
 
 ### Linux
-1. Download the **Linux binary** from the official website.
+1. Download the **Linux binary** from the official website or releases tag.
 2. Extract the files to your desired location.
 3. Open **Terminal**.
 4. Navigate to the Steghide directory.
