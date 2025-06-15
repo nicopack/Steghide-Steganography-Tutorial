@@ -7,7 +7,7 @@ This repository is for **educational purposes only**. I do **not condone any ill
 A step-by-step guide to using **Steghide**, a steganography tool for embedding and extracting hidden data within images. No installation required—just run it from the command line.
 
 ## Table of Contents
-- [Download Steghide](#download-steghide)
+- [Download Steghide](#get-steghide)
 - [Usage Guide](#usage-guide)
   - [Windows](#windows)
   - [Linux](#linux)
